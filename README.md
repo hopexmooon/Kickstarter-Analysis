@@ -9,6 +9,8 @@ Analyzing theater outcomes based on the launch date throughout the year can be s
 
 ### Analysis of Outcomes Based on Goals
 When comparing the status of a launch (successful, canceled, or failed) to the budget goal we see the highest number of successful plays with a fundraiser goal of $1000-4999. From the line graph below we see that with a higher budget the outcome only gets worse. 
+![image](https://user-images.githubusercontent.com/108151049/217996460-f00337d9-46bb-4181-980c-cb5128d4841f.png)
+
 
 ### Challenges and Difficulties Encountered
 One of the biggest challenges for this assignment was the fact that deliverable 2 - creating an outcome based on goals did not look like the example. I double checked my formulas when using the COUNTIFS formula but couldn’t figure out why my line graph didn’t look like the example. I re-downloaded the excel sheet and tried it again and came up with the same problem. I based my analysis above using the data I gathered - even if it was incorrect. In the future I’ll attend tutoring sessions before submitting. 
