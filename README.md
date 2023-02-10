@@ -15,3 +15,7 @@ One of the biggest challenges for this assignment was the fact that deliverable 
 
 ## Results
 From the outcomes based on launch date I concluded that the lowest rate of successful plays are launched at the second half of the year. Between March and May is the best time to launch a play - because the success rate is at its highest. After May we see a sharp decline in successful plays.  Another analysis is that successful and failed plays both see an increase during October. October has an increase in plays compared to September. One conclusion I can draw from outcomes based on goals is that a higher fundraiser goal doesn’t mean the play will have a higher level of success. One limitation on this dataset is the lack of data for canceled plays when analyzing outcome based on goals, as well as a lacking of data for half of the failed plays. One improvement for analyzing the Launch date would be to use a bar graph. Using a bar graph would be helpful to compared successful, canceled, and failed plays side by side instead of reading them independently on the line chart. 
+
+
+![image](https://user-images.githubusercontent.com/108151049/217996359-3c70a201-c7e4-4f9f-9eb0-5b4b3e330d48.png)
+
